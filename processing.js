@@ -9,7 +9,7 @@
     http://processingjs.org
 
 ***/
-
+/* @pjs preload="Face1.jpg", "Face2.jpg", "Face3.jpg", "Face4.jpg", "Face5.jpg", "Face6.jpg", "scarypumpkin.jpg"; */
 (function(window, document, Math, undef) {
   var nop = function() {};
   var debug = function() {
